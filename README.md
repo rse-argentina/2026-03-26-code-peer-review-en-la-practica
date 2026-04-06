@@ -1,4 +1,4 @@
-# Charla: Code peer review en la práctica: cómo revisamos código en proyectos abiertos
+# Code peer review en la práctica: cómo revisamos código en proyectos abiertos
 📅 **Fecha**: 26 de Marzo 2026
 
 ### **Oradora:** Yanina Bellini Saibene Community, Manager de rOpenSci, Project Lead de R-Ladies y profesora de la Universidad Austral.
